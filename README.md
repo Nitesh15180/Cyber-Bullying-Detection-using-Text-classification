@@ -11,30 +11,31 @@ Steps performed are as follow:
 
 #### 2)Data Preprocessing
 
-Clean the text data (e.g., remove punctuation, convert to lowercase, tokenize).
-Perform text vectorization (e.g., using TF-IDF or word embeddings).
-Model Training
+* Clean the text data (e.g., remove punctuation, convert to lowercase, tokenize).
+* Perform text vectorization (e.g., using TF-IDF or word embeddings).
 
-#### 3) Split the data into training and testing sets.
+ #### 3) Model Training
 
-Train the SVM model on the training dataset using the preprocessed text features.
-Model Evaluation
+ * Split the data into training and testing sets.
 
-#### 4) Evaluate the trained SVM model on the testing dataset.
+* Train the SVM model on the training dataset using the preprocessed text features.
+
+#### 4) Model Evaluation
+
+ * Evaluate the trained SVM model on the testing dataset.
    
-Assess model performance using metrics like accuracy, precision, recall, and F1-score.
-Streamlit Integration
+*  Assess model performance using metrics like accuracy, precision, recall, and F1-score.
 
-#### 5) Develop a Streamlit app that allows users to input text.
+#### 5) Streamlit Integration
 
-Develop a Streamlit app that allows users to input text and receive real-time predictions.
-Deployment and Testing
+ * Develop a Streamlit app that allows users to input text.
 
-Deploy the Streamlit app for user access.
-Test the app with various inputs to ensure accurate classification and usability.
-Integrate the trained SVM model into the Streamlit app for real-time predictions.
-Deployment and Testing
+* Develop a Streamlit app that allows users to input text and receive real-time predictions.
 
-#### 6) Deploy the Streamlit app for user access.
-   
-Test the app with various inputs to ensure accurate classification and usability.
+  
+#### 6) Deployment and Testing
+
+* Deploy the Streamlit app for user access.
+
+
+
