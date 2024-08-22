@@ -3,7 +3,7 @@ Developed a Machine Learning model using the Support Vector Machine algorithm to
 
 Steps performed are as follow: 
 
-# 1) Data Collection
+## 1) Data Collection
    
 Gather a labeled dataset with examples of both bullying and non-bullying text.
 
